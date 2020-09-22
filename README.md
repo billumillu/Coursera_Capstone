@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Brummy or Mancunian - Which one are you
 
 # Introduction
 When we think of UK, we think of London. Although a great place to visit, London isn’t necessarily affordable by everyone as a place to live. Due to this, many prefer living in a city close to London so that not only can they live in a bigger house for a lower rent, and save on many other things while earning a decent income, but also can drop in London within an hour or two. Smart.
